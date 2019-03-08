@@ -1,2 +1,4 @@
-# Gitignore
+# Git ignore h5 models (because it's to big) and jupyter notebook checkpoints
+
 *.h5
+.ipynb_checkpoints
